@@ -1,8 +1,3 @@
-Zet hier de arduino code
-
-//deze gebruikte ik in mijn presentatie
-
-
 #include <Servo.h>
 
 Servo servo;
@@ -28,4 +23,3 @@ void loop()
     delay(10);
   }
 }
-
